@@ -1,0 +1,30 @@
+
+
+
+Algoritmo para Calcular el Recargo de un Seguro
+
+1.	Inicio
+2.	Solicitar la edad del cliente:
+3.	Verificar si el cliente es mayor de 18 años:
+		1.	Solicitar el estado civil del cliente, casado SI o NO
+		2.	Si el cliente está casado
+				1.	Solicitar la edad del cónyuge:
+				2.	Calcular el recargo del cónyuge basado en su edad:
+		3.	Preguntar si el cliente tiene hijos:
+		4.	Si el cliente tiene hijos
+				1.	Preguntar si desea asegurar a los hijos:
+				2.	Si desea asegurar a los hijos
+							Solicitar la cantidad de hijos a asegurar
+		5.	Calcular el recargo del cliente basado en su edad:
+		6.	Calcular el pago total:
+		7.	Mostrar la cotización:
+o	Si no (el cliente es menor de 18 años):
+4.	Fin
+
+
+
+
+
+
+
+

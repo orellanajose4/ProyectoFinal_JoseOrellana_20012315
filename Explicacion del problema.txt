@@ -1,0 +1,32 @@
+
+
+
+Explicación del problema.
+
+La empresa de seguros TK-U realiza cotizaciones todos los días ya sea para posible 
+clientes o clientes que ya esta asegurados.  Actualmente las cotizaciones las hacen 
+manualmente, pero este proceso requiere una considerable cantidad de tiempo, esto 
+provoca muchos retrasos para poder entregar las cotizaciones y hace que posiblemente 
+pierdan una cantidad grande de nuevos posibles clientes.
+
+Las cotizaciones pueden variar de precio en función a las diferentes opciones que 
+el nuevo cliente/asegurado tiene para poder asegurar a su conyugue e hijos.
+
+Existen un precio base de Q 2000, el cual se para calcular porcentajes en base la 
+edad del cliente y del conyugue:
+
+-	Si el cliente o el conyugue tienen entre 18 y 24 años, deben pagar un recargo 
+    del 10% sobre el precio base cada uno.
+	
+-	Si el cliente o el conyugue tienen entre 25 y 49 años, deben pagar un regarco
+    del 20% sobre el precio base cada uno.
+	
+-	Si el cliente o el conyugue tienen mas de 50 años, deben pagar un recargo 
+    del 30% sobre el precio base cada uno.
+	
+-	Si el cliente/asegurado tiene hijos y los desea incluir en el seguro, deberá 
+    pagar un recargo de 20% por cada hijo sobre el precio base cada uno.
+
+
+
+
